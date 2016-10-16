@@ -1,0 +1,155 @@
+.menu{
+	list-style: none;
+	padding:  0;
+	margin: 0;
+	margin-left: 110px;
+}
+
+.menu li{
+	display: inline-block;
+	font-size: 14px;
+	margin-right: 23px;
+
+
+}
+
+.menu li a{
+
+	color: #FFFFFF;
+	display: block;
+	padding-left: 10px;
+	padding-right:10px;
+	font-weight: bold;
+}
+
+.fondo-menu{
+	background-image: url(img/tablas.jpg);
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	padding-right: 20px
+}
+
+
+
+.cabecera{
+	padding-top: 20px;
+	padding-bottom: 10px;
+	margin-left: 110px;
+}
+
+
+.texto-bienvenida{
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	color: #FF530D;
+
+}
+
+.texto-parrafo{
+	padding-bottom: 30px;
+	color: #666666;
+	text-align: center;
+}
+
+.aves{
+	color: #FFFFFF;
+	background-color: #2EA40D ;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	text-align: center;
+	font-weight: bold;
+	width: 280px;
+
+}
+
+
+.mamiferos{
+	color: #FFFFFF;
+	background-color: #3BAACF;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	text-align: center;
+	font-weight: bold;
+	width: 280px;
+}
+
+.artesania{
+	color: #FFFFFF;
+	background-color: #FF530D;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	text-align: center;
+	font-weight: bold;
+	width: 280px;
+}
+
+.separar{
+	margin-top: 40px;
+	margin-bottom: 40px;
+	margin-right: 100px;
+
+
+}
+
+.subtitulo{
+	font-size: 20px;
+	font-weight: bold;
+	color: #FF530D;
+}
+
+.cuadro-imagen{
+	border:1px solid #999999;
+	padding: 10px;
+}
+
+.boton{
+	background: #FF530D;
+	color: #FFFFFF;
+	display: block;
+	padding: 8px;
+	border-radius: 5px;
+	float: right;
+}
+
+
+.fondo-footer{
+	background-image: url("img/fondopi.png");
+	padding-top: 150px;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-bottom: 30px;
+
+}
+
+.fondo-footer ul{
+	list-style: none;
+	padding: 0;
+	margin: 0; 
+}
+
+
+.fondo-footer ul li a{
+	color: #000000;
+}
+
+
+.titulo-footer{
+	font-size: 22px;
+	color: #FF530D;
+	font-weight: bold;
+}
+
+.texto-derecha{
+	text-align: right;
+}
+
+.redes-sociales{
+	text-align: right;
+}
+
+
+.container{
+	width: 1082px;
+}
